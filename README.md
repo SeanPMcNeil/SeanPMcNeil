@@ -3,7 +3,7 @@
 </h1>
 
 ## Hi, I'm Sean!
-- Classicaly trained bassist / music theorist turned content creator turned software developer
+- Classically trained bassist / music theorist turned content creator turned software developer
 
 ## Skills
 - :man_technologist: C#, JavaScript, Python
