@@ -8,7 +8,7 @@
 - :open_file_folder: SQL, MySQL, MongoDB
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align='center' ssrc="https://github-readme-stats.vercel.app/api/top-langs/?username=SeanPMcNeil" />
+  <img align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeanPMcNeil" />
 </a>
   
 ## Contact
