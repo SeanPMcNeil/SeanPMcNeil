@@ -7,8 +7,10 @@
 - :crystal_ball: CSS, Bootstrap, Tailwind
 - :open_file_folder: SQL, MySQL, MongoDB
 
-<img align='center' ssrc="https://github-readme-stats.vercel.app/api/top-langs/?username=SeanPMcNeil" />
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align='center' ssrc="https://github-readme-stats.vercel.app/api/top-langs/?username=SeanPMcNeil" />
+</a>
+  
 ## Contact
 - [Email](mailto:smcneil136@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/seanpmcneil/)
