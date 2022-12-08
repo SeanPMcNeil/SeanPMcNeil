@@ -6,8 +6,6 @@
 - :gear: ASP.NET MVC, React
 - :crystal_ball: CSS, Bootstrap, Tailwind
 - :open_file_folder: SQL, MySQL, MongoDB
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeanPMcNeil&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
   
 ## Contact
 - [Email](mailto:smcneil136@gmail.com)
