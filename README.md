@@ -1,12 +1,25 @@
-## Hi, I'm Sean!
-- Classically trained bassist / music theorist turned content creator turned software developer
+# Hi, I'm Sean! 🎵👨‍💻
 
-## Skills
-- :man_technologist: C#, JavaScript
-- :gear: ASP.NET MVC, React
-- :crystal_ball: CSS, Bootstrap, Tailwind
-- :open_file_folder: SQL, MySQL, MongoDB
-  
-## Contact
-- [Email](mailto:smcneil136@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/seanpmcneil/)
+As a classically trained bassist and music theorist, I have a unique perspective on creativity and precision. My journey has led me from the world of music to the dynamic realm of content creation and now into the intricate and fascinating field of software development.
+
+## 🛠 Skills
+Transforming my artistic sensibility into technical expertise, I specialize in:
+
+### Programming Languages:
+- C#
+- JavaScript
+
+### Web Development:
+- Frameworks: ASP.NET MVC, React
+- Styling: CSS, Bootstrap, Tailwind
+
+### Databases:
+- SQL
+- MySQL
+- MongoDB
+
+## 📫 Contact
+Let's connect and collaborate!
+
+- 📧 Email: [smcneil136@gmail.com](mailto:smcneil136@gmail.com)
+- 🔗 LinkedIn: [Sean P. McNeil](https://www.linkedin.com/in/seanpmcneil/)
