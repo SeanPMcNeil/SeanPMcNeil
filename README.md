@@ -7,15 +7,14 @@ Transforming my artistic sensibility into technical expertise, I specialize in:
 
 ### Programming Languages:
 - C#
-- JavaScript
+- JavaScript / TypeScript
 
 ### Web Development:
-- Frameworks: ASP.NET MVC, React
-- Styling: CSS, Bootstrap, Tailwind
+- Frameworks: ASP.NET MVC, React, Angular
+- Styling: CSS, SASS, Bootstrap, Tailwind
 
 ### Databases:
 - SQL
-- MySQL
 - MongoDB
 
 ## 📫 Contact
